@@ -1,6 +1,6 @@
 # Image-Colour-Detection
 
-Tool to identify the most dominant colour in an image, and produces a palette as well as a wallpaper of that colour according to the specified dimensions.
+Tool to identify the most dominant colour in an image, which is then used to produce a colour palette and wallpaper of that colour according to the user-specified dimensions.
 
 Can be used to create colour palettes for designing posters based on an image.
 
